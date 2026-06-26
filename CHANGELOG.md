@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.1+fork] - 2026-06-26
+
+- Enable Android prebuilt binaries
+- Expose `{{ dirs.base.data_local }}` helper function
+- chore: Cleanup clippy warnings
+- chore: Update libraries and fix breaking changes
+- feat: Optmize release binary size
+
 ## [1.2.1] - 2025-04-14
 
 - Update dependencies
